@@ -1,7 +1,9 @@
-- 👋 Hi, I’m a e s x i l y 
-- 🧒 or my real name, Ramadhan Angga Yudhanto
+<h1 align="center">Hi 👋, I'm Ramadhan Angga</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<!---
-aesxily/aesxily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **aesxilymail@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ramadhannangga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramadhannangga" height="30" width="40" /></a>
+</p>
